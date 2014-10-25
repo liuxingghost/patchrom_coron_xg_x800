@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_bpp_orientations">
+        <item>عمودي</item>
+        <item>أفقي</item>
+        <item>عمودي عكسي</item>
+        <item>أفقي عكسي</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+    </string-array>
+    <string-array name="bt_bpp_sidesettings">
+        <item>من جانب واحد</item>
+        <item>حافة طويلة بجانبين</item>
+        <item>حافة قصيرة بجانبين</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+    </string-array>
+    <string-array name="bt_bpp_qualitys">
+        <item>عادي</item>
+        <item>مسودة</item>
+        <item>عالي</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+        <item>غير معروف</item>
+    </string-array>
+    <string-array name="bt_bpp_entry_error">
+        <item>لا يوجد خطأ</item>
+        <item>فشل إنشاء ملف v-card</item>
+        <item>تنسيق الصورة غير مدعوم</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_file_operations">
+        <item>اكتساب</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_folder_operations">
+        <item>فتح</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_server_permission_entries">
+        <item>للقراءة فقط</item>
+        <item>تحكم كامل</item>
+    </string-array>
+    <string-array name="bt_prxm_link_loss_level_entries">
+        <item>لا تنبيه</item>
+        <item>تنبيه متوسط</item>
+        <item>تنبيه عالي</item>
+    </string-array>
+    <string-array name="bt_prxm_path_loss_level_entries">
+        <item>لا تنبيه</item>
+        <item>تنبيه متوسط</item>
+        <item>تنبيه عالي</item>
+    </string-array>
+    <string-array name="bluetooth_simap_server_sim_index_entries">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="bluetooth_simap_server_sim_index_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
